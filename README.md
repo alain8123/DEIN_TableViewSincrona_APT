@@ -1,4 +1,4 @@
-# 📌 IDENTIFICACIÓN DE LA ACTIVIDAD: UDn.ACTm
+# 📌 TableView Sincrona
 
 ---
 
